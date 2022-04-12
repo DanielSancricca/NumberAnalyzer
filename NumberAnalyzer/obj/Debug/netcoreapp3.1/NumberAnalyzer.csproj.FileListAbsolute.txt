@@ -1,0 +1,14 @@
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.exe
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.deps.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.dev.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.AssemblyReference.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfo.cs
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.genruntimeconfig.cache
